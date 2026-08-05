@@ -15,7 +15,7 @@ export default function Hero() {
         <p className="hero-tagline" dir="ltr">Local eyes. Israeli standards.</p>
         <div className="hero-divider" aria-hidden="true" />
         <p className="hero-subtitle">השקעת נדל"ן בפורטוגל, עם ייצוג מלא ונוכחות פיזית בשטח.</p>
-        <p className="hero-desc">איתור, ניהול רכישה, פיקוח שיפוץ והשכרה ברצועת הסילבר קוסט.<br />בשקיפות מלאה ובלי שתצטרכו לטוס הלוך ושוב.</p>
+        <p className="hero-desc">איתור, ניהול רכישה, פיקוח שיפוץ והשכרה ברצועת החוף "הסילבר קוסט".<br />בשקיפות מלאה ובלי שתצטרכו לטוס הלוך ושוב.</p>
       </div>
       <button
         className="hero-scroll"
