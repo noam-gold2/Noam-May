@@ -32,7 +32,7 @@ body {
   font-family: var(--font-body);
   background: var(--bg);
   color: var(--text);
-  font-size: 17px;
+  font-size: 18px;
   line-height: 1.7;
   direction: rtl;
   -webkit-font-smoothing: antialiased;
@@ -41,7 +41,7 @@ body {
 /* ── Utility ── */
 .label-en {
   font-family: var(--font-label);
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 400;
   letter-spacing: 0.18em;
   text-transform: uppercase;
@@ -51,7 +51,7 @@ body {
 
 .section-eyebrow {
   font-family: var(--font-label);
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 400;
   letter-spacing: 0.18em;
   text-transform: uppercase;

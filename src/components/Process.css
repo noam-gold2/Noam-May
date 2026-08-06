@@ -9,7 +9,7 @@
 
 .process-heading {
   font-family: var(--font-heading);
-  font-size: clamp(28px, 4.5vw, 42px);
+  font-size: clamp(30px, 4.5vw, 44px);
   font-weight: 400;
   color: var(--text);
   line-height: 1.2;
@@ -18,7 +18,7 @@
 }
 
 .process-subhead {
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 300;
   color: var(--text-muted);
 }
@@ -43,13 +43,13 @@
 }
 .stage-header:hover .stage-title-he { color: var(--green); }
 
-.stage-num { color: var(--text-muted); font-size: 11px; direction: ltr; }
+.stage-num { color: var(--text-muted); font-size: 12px; direction: ltr; }
 
 .stage-titles { display: flex; flex-direction: column; gap: 2px; text-align: right; }
 
 .stage-title-he {
   font-family: var(--font-body);
-  font-size: 17px;
+  font-size: 18px;
   font-weight: 500;
   color: var(--text);
   transition: color var(--transition);
@@ -79,7 +79,7 @@
 }
 
 .stage-description {
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 300;
   line-height: 1.8;
   color: var(--text);
@@ -92,7 +92,7 @@
   gap: 7px;
 }
 .stage-includes li {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 300;
   color: var(--text-muted);
   padding-right: 14px;
@@ -122,7 +122,7 @@
 .stage-price-row { display: flex; flex-direction: column; gap: 2px; }
 
 .stage-price-label {
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 400;
   color: var(--text-muted);
 }
@@ -137,7 +137,7 @@
 }
 
 .stage-price-note {
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 300;
   color: var(--text-muted);
   margin-top: 4px;
@@ -157,13 +157,13 @@
 }
 
 .track-label {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 500;
   color: var(--green);
 }
 
 .track-description {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 300;
   line-height: 1.8;
   color: var(--text);
@@ -188,7 +188,7 @@
   cursor: pointer;
   direction: rtl;
   font-family: var(--font-body);
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 400;
   color: var(--text-muted);
   transition: color var(--transition);
@@ -216,7 +216,7 @@
 }
 
 .costs-intro {
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 300;
   line-height: 1.8;
   color: var(--text-muted);
@@ -229,7 +229,7 @@
 .costs-list li {
   display: flex;
   gap: 12px;
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 300;
   align-items: baseline;
 }

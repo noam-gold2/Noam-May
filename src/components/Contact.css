@@ -11,7 +11,7 @@
 
 .contact-heading {
   font-family: var(--font-heading);
-  font-size: clamp(36px, 6vw, 56px);
+  font-size: clamp(38px, 6vw, 58px);
   font-weight: 300;
   color: var(--text);
   margin-bottom: 20px;
@@ -19,7 +19,7 @@
 }
 
 .contact-text {
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 300;
   line-height: 1.8;
   color: var(--text-muted);
@@ -40,7 +40,7 @@
   padding: 13px 24px;
   border-radius: var(--radius);
   font-family: var(--font-body);
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 400;
   cursor: pointer;
   transition: all var(--transition);
